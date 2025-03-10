@@ -23,7 +23,7 @@ pip install pillow
 ```
 ## Project Structure
 ```bash
-certificate_generator/
+gdg-certificate-generator/
 │── certificate_templates/
 │   ├── certificate_template.png  # Certificate template image
 │── Inter/static/
