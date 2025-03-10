@@ -1,7 +1,7 @@
 from PIL import Image, ImageDraw, ImageFont
 import os
 
-TEMPLATE_PATH = "certificate_templates/certificate_template.png"  # Make sure this matches your actual template name
+TEMPLATE_PATH = "certificate_templates/certificate_template.png"  # Make sure this matches your actual template name, it can be a certificate for studyjams, levelling system etc.
 FONT_PATH = "Inter/static/Inter_24pt-SemiBold.ttf"
 OUTPUT_FOLDER = "generated_certificates"
 
